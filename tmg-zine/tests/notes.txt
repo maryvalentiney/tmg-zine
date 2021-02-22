@@ -1,0 +1,3 @@
+sort filename > filename
+
+>> filename (ADD TO FILE)
